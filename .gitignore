@@ -1,0 +1,8 @@
+raw/
+tables/
+figures/
+refit/
+MANIFEST_raw.json
+*.log
+__pycache__/
+venv/
